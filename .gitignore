@@ -1,0 +1,7 @@
+# Generated data file (created on first run)
+rasms_data.json
+
+__pycache__/
+*.py[cod]
+.DS_Store
+Thumbs.db
